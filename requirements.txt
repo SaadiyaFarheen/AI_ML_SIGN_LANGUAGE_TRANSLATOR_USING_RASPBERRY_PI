@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+joblib
+pyserial
+pillow
+adafruit-circuitpython-ssd1306
