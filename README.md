@@ -117,6 +117,13 @@ See `DEPLOYMENT.md` for full setup instructions.
 
 ---
 
-## Author
+## 👥 Authors (Group 7)
 
-Developed as an AI/ML + Embedded Systems integration project demonstrating real-time IoT deployment and intelligent gesture recognition.
+* Saadiya Farheen
+* Swayam Das
+* S. Jayant Kumar
+* Smruti Saurav Mishra
+* Anubhab Patra
+* Veetesh Sinha
+
+---
